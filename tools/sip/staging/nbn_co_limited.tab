@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  Type NATIVE Charset "Neutral"
+  Fields 7
+    Name_of_SIP Char (254) ;
+    Service_Area Char (254) ;
+    Service_Area_Identifier Char (254) ;
+    Contract Char (254) ;
+    Project_Area Char (254) ;
+    Network_Infrastructure Char (254) ;
+    Estimated_Completion_Date Char (254) ;

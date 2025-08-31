@@ -1,0 +1,128 @@
+050 Albury
+257 Armidale Regional
+148 Ballina
+230 Balranald
+608 Bathurst Regional
+276 Bayside
+018 Bega Valley
+149 Bellingen
+051 Berrigan
+214 Blacktown
+231 Bland
+118 Blayney
+216 Blue Mountains
+232 Bogan
+239 Bourke
+233 Brewarrina
+234 Broken Hill
+137 Burwood
+150 Byron
+109 Cabonne
+217 Camden
+218 Campbelltown
+139 Canada Bay
+258 Canterbury-Bankstown
+052 Carrathool
+259 Central Coast
+235 Central Darling
+001 Cessnock
+303 Clarence Valley
+236 Cobar
+152 Coffs Harbour
+054 Coolamon
+238 Coonamble
+265 Cootamundra-Gundagai Regional
+042 Cowra
+261 Cumberland
+275 Dubbo Regional
+002 Dungog
+262 Edward River
+097 Eurobodalla
+220 Fairfield
+263 Federation
+117 Forbes
+264 Georges River
+240 Gilgandra
+302 Glen Innes Severn
+529 Goulburn Mulwaree
+560 Greater Hume
+074 Griffith
+187 Gunnedah
+300 Gwydir
+219 Hawkesbury
+243 Hay
+266 Hilltops
+082 Hornsby
+083 Hunters Hill
+267 Inner West
+188 Inverell
+061 Junee
+157 Kempsey
+098 Kiama
+084 Ku-ring-gai
+158 Kyogle
+244 Lachlan
+004 Lake Macquarie
+085 Lane Cove
+065 Leeton
+159 Lismore
+222 Lithgow
+223 Liverpool
+301 Liverpool Plains
+066 Lockhart
+005 Maitland
+620 Mid Western Regional
+268 Mid-Coast
+192 Moree Plains
+087 Mosman
+269 Murray River
+270 Murrumbidgee
+007 Muswellbrook
+164 Nambucca
+247 Narrabri
+070 Narrandera
+251 Narromine
+008 Newcastle
+088 North Sydney
+271 Northern Beaches
+123 Oberon
+124 Orange
+116 Parkes
+260 Parramatta
+224 Penrith
+656 Port Macquarie-Hastings
+010 Port Stephens
+272 Queanbeyan-Palerang Regional
+207 Randwick
+151 Richmond Valley
+090 Ryde
+100 Shellharbour
+101 Shoalhaven
+012 Singleton
+273 Snowy Monaro Regional
+274 Snowy Valleys
+143 Strathfield
+144 Sutherland
+708 Sydney
+666 Tamworth Regional
+538 Temora
+250 Tenterfield
+081 The Hills Shire
+171 Tweed
+511 Upper Hunter
+526 Upper Lachlan
+199 Uralla
+575 Wagga Wagga
+252 Walcha
+253 Walgett
+254 Warren
+537 Warrumbungle
+209 Waverley
+043 Weddin
+255 Wentworth
+092 Willoughby
+102 Wingecarribee
+226 Wollondilly
+103 Wollongong
+210 Woollahra
+528 Yass Valley

@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 6
+    OBJECTID Integer ;
+    ID Char (6) ;
+    Specified_area Char (74) ;
+    Service Char (254) ;
+    Shape_Length Float ;
+    Shape_Area Float ;

@@ -1,0 +1,1903 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.96680520956835,
+          -36.0705070919868
+        ]
+      },
+      "properties": {
+        "abb_name": "Albury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.03138380903957,
+          -30.365261478916977
+        ]
+      },
+      "properties": {
+        "abb_name": "Armidale Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.46487872111715,
+          -28.807304504449537
+        ]
+      },
+      "properties": {
+        "abb_name": "Ballina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34244303543605,
+          -34.51844465238284
+        ]
+      },
+      "properties": {
+        "abb_name": "Balranald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5166476827155,
+          -33.45253954773946
+        ]
+      },
+      "properties": {
+        "abb_name": "Bathurst Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.14175498599658,
+          -33.94131751695866
+        ]
+      },
+      "properties": {
+        "abb_name": "Bayside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.94850465102633,
+          -36.85371636169493
+        ]
+      },
+      "properties": {
+        "abb_name": "Bega Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7298967362982,
+          -30.314845223341912
+        ]
+      },
+      "properties": {
+        "abb_name": "Bellingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64903716176445,
+          -35.88105580129651
+        ]
+      },
+      "properties": {
+        "abb_name": "Berrigan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.81408638960784,
+          -33.749050139957085
+        ]
+      },
+      "properties": {
+        "abb_name": "Blacktown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.37505862759397,
+          -33.880605830389804
+        ]
+      },
+      "properties": {
+        "abb_name": "Bland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.00030464953122,
+          -33.545889017753105
+        ]
+      },
+      "properties": {
+        "abb_name": "Blayney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.41301044287772,
+          -33.59551974144064
+        ]
+      },
+      "properties": {
+        "abb_name": "Blue Mountains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25150458554964,
+          -31.445455088642998
+        ]
+      },
+      "properties": {
+        "abb_name": "Bogan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36219806066606,
+          -29.735929152727973
+        ]
+      },
+      "properties": {
+        "abb_name": "Bourke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29379353802247,
+          -30.036247959106603
+        ]
+      },
+      "properties": {
+        "abb_name": "Brewarrina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.48986190567962,
+          -31.94826831796298
+        ]
+      },
+      "properties": {
+        "abb_name": "Broken Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10336873874118,
+          -33.883516029781234
+        ]
+      },
+      "properties": {
+        "abb_name": "Burwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.51084397974333,
+          -28.676083664128228
+        ]
+      },
+      "properties": {
+        "abb_name": "Byron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.74099273408171,
+          -33.23627712432812
+        ]
+      },
+      "properties": {
+        "abb_name": "Cabonne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.69417372371436,
+          -34.02641707610224
+        ]
+      },
+      "properties": {
+        "abb_name": "Camden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.86994580463943,
+          -34.095381291554745
+        ]
+      },
+      "properties": {
+        "abb_name": "Campbelltown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0805746175621,
+          -33.929303243086636
+        ]
+      },
+      "properties": {
+        "abb_name": "Canterbury-Bankstown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41771863909494,
+          -33.9864916703327
+        ]
+      },
+      "properties": {
+        "abb_name": "Carrathool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4205842524437,
+          -33.305164348569924
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5502297502805,
+          -31.938452663155868
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Darling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10305351846444,
+          -32.980792653277305
+        ]
+      },
+      "properties": {
+        "abb_name": "Cessnock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12553333735556,
+          -33.84763489743031
+        ]
+      },
+      "properties": {
+        "abb_name": "Canada Bay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06235306201222,
+          -33.797291651470715
+        ]
+      },
+      "properties": {
+        "abb_name": "Parramatta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.73885188931422,
+          -29.81253399964489
+        ]
+      },
+      "properties": {
+        "abb_name": "Clarence Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9445839068562,
+          -32.628047722795934
+        ]
+      },
+      "properties": {
+        "abb_name": "Cobar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0618633869395,
+          -30.207485856688926
+        ]
+      },
+      "properties": {
+        "abb_name": "Coffs Harbour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.15885784854865,
+          -34.6115657637981
+        ]
+      },
+      "properties": {
+        "abb_name": "Coolamon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0126971130749,
+          -30.871537839623425
+        ]
+      },
+      "properties": {
+        "abb_name": "Coonamble"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.98895267414514,
+          -34.90679491209666
+        ]
+      },
+      "properties": {
+        "abb_name": "Cootamundra-Gundagai Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21093862765613,
+          -33.875544100810586
+        ]
+      },
+      "properties": {
+        "abb_name": "Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7346160093448,
+          -33.74076386511533
+        ]
+      },
+      "properties": {
+        "abb_name": "Cowra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9553946211369,
+          -33.84497025013306
+        ]
+      },
+      "properties": {
+        "abb_name": "Cumberland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98245990998882,
+          -32.76154676112639
+        ]
+      },
+      "properties": {
+        "abb_name": "Dubbo Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.60660213036363,
+          -32.295061477416226
+        ]
+      },
+      "properties": {
+        "abb_name": "Dungog"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8346153647352,
+          -35.3940161188511
+        ]
+      },
+      "properties": {
+        "abb_name": "Edward River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.22709052951643,
+          -36.251041283239196
+        ]
+      },
+      "properties": {
+        "abb_name": "Eurobodalla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.05561605300548,
+          -35.89709943945831
+        ]
+      },
+      "properties": {
+        "abb_name": "Eurobodalla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9318581645715,
+          -33.87285004179216
+        ]
+      },
+      "properties": {
+        "abb_name": "Fairfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.37533269860396,
+          -35.92454282687366
+        ]
+      },
+      "properties": {
+        "abb_name": "Federation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11271069564836,
+          -33.40851506318732
+        ]
+      },
+      "properties": {
+        "abb_name": "Forbes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08342987109876,
+          -33.971717434154215
+        ]
+      },
+      "properties": {
+        "abb_name": "Georges River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98649044437207,
+          -31.62211571380743
+        ]
+      },
+      "properties": {
+        "abb_name": "Gilgandra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1130122459017,
+          -29.774965325462468
+        ]
+      },
+      "properties": {
+        "abb_name": "Glen Innes Severn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.88544279872252,
+          -34.82629581721482
+        ]
+      },
+      "properties": {
+        "abb_name": "Goulburn Mulwaree"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27615462202013,
+          -35.91245280549089
+        ]
+      },
+      "properties": {
+        "abb_name": "Greater Hume"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0235656927661,
+          -34.38452726457607
+        ]
+      },
+      "properties": {
+        "abb_name": "Griffith"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.07803649138384,
+          -31.104117739956862
+        ]
+      },
+      "properties": {
+        "abb_name": "Gunnedah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.64567289991385,
+          -29.400677084652234
+        ]
+      },
+      "properties": {
+        "abb_name": "Gwydir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.74177145138373,
+          -33.30008753451363
+        ]
+      },
+      "properties": {
+        "abb_name": "Hawkesbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.57379496237346,
+          -34.100074228023736
+        ]
+      },
+      "properties": {
+        "abb_name": "Hay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5198512116383,
+          -34.287290080147294
+        ]
+      },
+      "properties": {
+        "abb_name": "Hilltops"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1640219774113,
+          -33.88733160616326
+        ]
+      },
+      "properties": {
+        "abb_name": "Inner West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.88700485994147,
+          -29.289491819609495
+        ]
+      },
+      "properties": {
+        "abb_name": "Inverell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.76024299607195,
+          -34.95539185653011
+        ]
+      },
+      "properties": {
+        "abb_name": "Junee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8507378059248,
+          -30.935233057766954
+        ]
+      },
+      "properties": {
+        "abb_name": "Kempsey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.14621296346246,
+          -33.738360100457484
+        ]
+      },
+      "properties": {
+        "abb_name": "Ku-ring-gai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.75331477385933,
+          -28.61768079157302
+        ]
+      },
+      "properties": {
+        "abb_name": "Kyogle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13993869234028,
+          -32.66581361869571
+        ]
+      },
+      "properties": {
+        "abb_name": "Lachlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.57848375225086,
+          -33.100781683257786
+        ]
+      },
+      "properties": {
+        "abb_name": "Lake Macquarie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.16766557819483,
+          -33.82798804513173
+        ]
+      },
+      "properties": {
+        "abb_name": "Lane Cove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.17241758265155,
+          -34.59913738466866
+        ]
+      },
+      "properties": {
+        "abb_name": "Leeton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.27865889212404,
+          -28.755481646180403
+        ]
+      },
+      "properties": {
+        "abb_name": "Lismore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.28750407551573,
+          -33.35574307706637
+        ]
+      },
+      "properties": {
+        "abb_name": "Lithgow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.86805423528023,
+          -33.9460920622536
+        ]
+      },
+      "properties": {
+        "abb_name": "Liverpool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.35086631154434,
+          -31.522385905352802
+        ]
+      },
+      "properties": {
+        "abb_name": "Liverpool Plains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9470761803311,
+          -35.30459222623927
+        ]
+      },
+      "properties": {
+        "abb_name": "Lockhart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.66631985125025,
+          -32.73832798958416
+        ]
+      },
+      "properties": {
+        "abb_name": "Maitland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20578441773225,
+          -32.02086343294197
+        ]
+      },
+      "properties": {
+        "abb_name": "Mid-Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.18164311278852,
+          -29.19662750974287
+        ]
+      },
+      "properties": {
+        "abb_name": "Moree Plains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.24422243863714,
+          -33.824139159252674
+        ]
+      },
+      "properties": {
+        "abb_name": "Mosman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29672942575507,
+          -35.570733587911725
+        ]
+      },
+      "properties": {
+        "abb_name": "Murray River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.82214645244434,
+          -34.72256991640437
+        ]
+      },
+      "properties": {
+        "abb_name": "Murrumbidgee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.56200666022494,
+          -32.44097954756263
+        ]
+      },
+      "properties": {
+        "abb_name": "Muswellbrook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.57933680371153,
+          -30.18260623651786
+        ]
+      },
+      "properties": {
+        "abb_name": "Narrabri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5924116028356,
+          -34.687772594188914
+        ]
+      },
+      "properties": {
+        "abb_name": "Narrandera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.87821705795892,
+          -32.362831663383574
+        ]
+      },
+      "properties": {
+        "abb_name": "Narromine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7704880485352,
+          -32.87829225491257
+        ]
+      },
+      "properties": {
+        "abb_name": "Newcastle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21354214822983,
+          -33.837943982849
+        ]
+      },
+      "properties": {
+        "abb_name": "North Sydney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.25937833357938,
+          -33.73025688306362
+        ]
+      },
+      "properties": {
+        "abb_name": "Northern Beaches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.82049798368453,
+          -33.782801759132475
+        ]
+      },
+      "properties": {
+        "abb_name": "Oberon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.09417151550556,
+          -33.33756137754384
+        ]
+      },
+      "properties": {
+        "abb_name": "Orange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.95969602302767,
+          -32.61662050676961
+        ]
+      },
+      "properties": {
+        "abb_name": "Parkes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.761865991922,
+          -33.75315116285614
+        ]
+      },
+      "properties": {
+        "abb_name": "Penrith"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5143986516925,
+          -31.477731405718963
+        ]
+      },
+      "properties": {
+        "abb_name": "Port Macquarie-Hastings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.00057452874867,
+          -32.75715771116085
+        ]
+      },
+      "properties": {
+        "abb_name": "Port Stephens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.67979679997214,
+          -35.618233026498295
+        ]
+      },
+      "properties": {
+        "abb_name": "Queanbeyan-Palerang Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2531238222652,
+          -33.94690459719019
+        ]
+      },
+      "properties": {
+        "abb_name": "Randwick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.13004395331686,
+          -28.966132287349467
+        ]
+      },
+      "properties": {
+        "abb_name": "Richmond Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11684697751363,
+          -33.80287195664412
+        ]
+      },
+      "properties": {
+        "abb_name": "Ryde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.864533635461,
+          -34.62587653471313
+        ]
+      },
+      "properties": {
+        "abb_name": "Shellharbour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.82952306772955,
+          -34.592808744805296
+        ]
+      },
+      "properties": {
+        "abb_name": "Shellharbour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.44277404267643,
+          -35.24916305450215
+        ]
+      },
+      "properties": {
+        "abb_name": "Shoalhaven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8555061018016,
+          -32.7040650721011
+        ]
+      },
+      "properties": {
+        "abb_name": "Singleton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12914684942925,
+          -36.05936498127702
+        ]
+      },
+      "properties": {
+        "abb_name": "Snowy Monaro Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10118667333265,
+          -36.27581922833814
+        ]
+      },
+      "properties": {
+        "abb_name": "Snowy Valleys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.07410750003052,
+          -33.882333327177186
+        ]
+      },
+      "properties": {
+        "abb_name": "Strathfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11145645639522,
+          -34.07423147522868
+        ]
+      },
+      "properties": {
+        "abb_name": "Sutherland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11891631104263,
+          -31.068694614396392
+        ]
+      },
+      "properties": {
+        "abb_name": "Tamworth Regional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7225710469164,
+          -34.31982622544006
+        ]
+      },
+      "properties": {
+        "abb_name": "Temora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36801360115825,
+          -28.728927453790305
+        ]
+      },
+      "properties": {
+        "abb_name": "Tenterfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.15135785779236,
+          -33.83638589006949
+        ]
+      },
+      "properties": {
+        "abb_name": "Hunters Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8318753628784,
+          -34.671895280298784
+        ]
+      },
+      "properties": {
+        "abb_name": "Kiama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13101041319769,
+          -33.589237512810996
+        ]
+      },
+      "properties": {
+        "abb_name": "Hornsby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.372947983378,
+          -28.356472229753106
+        ]
+      },
+      "properties": {
+        "abb_name": "Tweed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.72307792535003,
+          -31.98458385096692
+        ]
+      },
+      "properties": {
+        "abb_name": "Upper Hunter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5075078117621,
+          -34.35797424458981
+        ]
+      },
+      "properties": {
+        "abb_name": "Upper Lachlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4926226476272,
+          -30.556150466122485
+        ]
+      },
+      "properties": {
+        "abb_name": "Uralla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36462066138068,
+          -35.35597642563037
+        ]
+      },
+      "properties": {
+        "abb_name": "Wagga Wagga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.70017809119312,
+          -31.21281795711854
+        ]
+      },
+      "properties": {
+        "abb_name": "Walcha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.32552466592807,
+          -29.583201421618387
+        ]
+      },
+      "properties": {
+        "abb_name": "Walgett"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55951683798338,
+          -31.424615062379505
+        ]
+      },
+      "properties": {
+        "abb_name": "Warren"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.60364060843452,
+          -31.734228486457972
+        ]
+      },
+      "properties": {
+        "abb_name": "Warrumbungle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27351706272535,
+          -33.89141886098167
+        ]
+      },
+      "properties": {
+        "abb_name": "Waverley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9195766915546,
+          -33.83491472152618
+        ]
+      },
+      "properties": {
+        "abb_name": "Weddin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.89268632105592,
+          -34.13463183242647
+        ]
+      },
+      "properties": {
+        "abb_name": "Wentworth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21149142676927,
+          -33.799611032325465
+        ]
+      },
+      "properties": {
+        "abb_name": "Willoughby"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32928005345588,
+          -34.56754138313852
+        ]
+      },
+      "properties": {
+        "abb_name": "Wingecarribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.50541377336418,
+          -34.05877790834671
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollondilly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.94561035405263,
+          -34.46456030640874
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9237127298697,
+          -34.490161657969125
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9379654210551,
+          -34.49434387325667
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.92974201543333,
+          -34.45579537111937
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.93165659132427,
+          -34.491774706462536
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.91322469955657,
+          -34.341764909024434
+        ]
+      },
+      "properties": {
+        "abb_name": "Wollongong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.26491078960342,
+          -33.85817175516484
+        ]
+      },
+      "properties": {
+        "abb_name": "Woollahra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.96648866878482,
+          -34.90890861887545
+        ]
+      },
+      "properties": {
+        "abb_name": "Yass Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.67491629578862,
+          -34.8723999190703
+        ]
+      },
+      "properties": {
+        "abb_name": "Campbelltown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12092638951282,
+          -41.11850773461645
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12776374152978,
+          -41.12162276259489
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16199827904546,
+          -41.13822502429236
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1621282216875,
+          -41.13781375450256
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11825204911474,
+          -41.117981872802865
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12764041959164,
+          -41.11994131224016
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16528495807694,
+          -41.13833154821893
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16142362905262,
+          -41.13873125227561
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0535875527535,
+          -41.176028765902245
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16456755343938,
+          -41.14069289352466
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12059618666248,
+          -41.11923707992765
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16516816159998,
+          -41.13930090562064
+        ]
+      },
+      "properties": {
+        "abb_name": "Central Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0180755527328,
+          -37.96730935396115
+        ]
+      },
+      "properties": {
+        "abb_name": "Bayside"
+      }
+    }
+  ]
+}

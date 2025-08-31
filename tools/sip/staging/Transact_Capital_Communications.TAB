@@ -1,0 +1,19 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 7
+    Name_of_SIP Char (254) ;
+    Service_Area Char (254) ;
+    Service_Area_Identifier Char (254) ;
+    Contract Char (254) ;
+    Project_Area Char (254) ;
+    Network_Infrastructure Char (254) ;
+    Estimated_Completion_Date Char (254) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "1ddad294-1183-4df2-9027-b62de3259779"
+end_metadata

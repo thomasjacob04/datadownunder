@@ -16,14 +16,14 @@ const substationIcon = L.divIcon({
 
 const wasteFacilityIcon = L.divIcon({
     className: 'waste-marker',
-    html: '<div style="background-color:#2ecc71; width:4px; height:4px; border-radius:50%;"></div>',
+    html: '<div style="background-color:#2ecc71; width:6px; height:6px; border-radius:20%;"></div>',
     iconSize: [24, 24],
     iconAnchor: [12, 12]
 });
 
 const powerStationIcon = L.divIcon({
     className: 'power-station-marker',
-    html: '<div style="background-color:#2980b9; width:4px; height:4px; border-radius:50%; box-shadow: 0 0 2px #fff;"></div>',
+    html: '<div style="background-color:#2980b9; width:6px; height:6px; border-radius:50%; box-shadow: 0 0 2px #fff;"></div>',
     iconSize: [26, 26],
     iconAnchor: [13, 13]
 });

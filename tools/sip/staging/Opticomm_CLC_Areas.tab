@@ -1,0 +1,14 @@
+!table
+!version 900
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 7
+    Name_of_SIP Char (50) ;
+    Service_Area Char (50) ;
+    Service_Area_Identifier Char (50) ;
+    Contract Char (50) ;
+    Project_Area Char (50) ;
+    Network_Infrastructure Char (20) ;
+    Estimated_Completion_Date Date ;

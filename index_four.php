@@ -481,7 +481,7 @@
             <div class="stats">
                 <h2><i class="fas fa-chart-bar"></i> Statistics</h2>
                 <div>
-                    <h3>Substations</h3>
+                    <h3>Power Stations</h3>
                     <p>Total: <span id="substation-count">3</span></p>
                     <p>Operational: <span id="operational-substations">3</span></p>
                 </div>
